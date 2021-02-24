@@ -1,0 +1,21 @@
+*
+{
+	background-color: black;
+	padding: 10px;
+	margin: auto;
+}
+h1
+{
+	color: white;
+	position: center;
+}
+#name
+{
+	text-size: 25px;
+	color: yellow;
+}
+#email
+{
+	text-size:25px;
+	color:yellowgreen;
+}
